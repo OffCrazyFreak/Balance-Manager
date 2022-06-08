@@ -5,3 +5,4 @@ To run just open the .exe file and you are good to go.
 
 If you wish so, you can edit the records outside the program, but I don't recommend that.
 The records file is located in "Records" map in "Records.txt" form.
+Records are compatible on all three versions.
